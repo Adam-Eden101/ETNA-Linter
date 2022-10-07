@@ -12,5 +12,6 @@
         "no-console": "off",
         "no-restricted-syntax": "off",
         "no-param-reassign": "off"
-    }
+    },
+    "ignorePatterns": ["build", "node_modules"]
 }
