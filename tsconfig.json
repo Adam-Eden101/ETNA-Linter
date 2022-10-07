@@ -10,7 +10,7 @@
         /* Specify the root folder within your source files. */
         "module": "commonjs",
         /* Specify the root folder within your source files. */
-        "rootDir": "./",
+        "rootDir": "./src/",
         /* Enable importing .json files */
         "resolveJsonModule": true,
             
